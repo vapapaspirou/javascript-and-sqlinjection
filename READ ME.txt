@@ -1,0 +1,31 @@
+IN THIS TUTORIAL WE SHOW HOW JAVASCRIPT AND SQL INJECTION WORKS AND HOW WE CAN PREVENT IT WITH THE CORRECT CODE.
+
+THE CODE TESTED AND WORKED WITH XAMPP AND AT phpMyAdmin WITH THESE STATITICS:
+
+Web server
+
+    Apache/2.4.41 (Win64) PHP/7.3.12
+    Database client version: libmysql - mysqlnd 5.0.12-dev - 20150407 
+    PHP extension: mysqliDocumentation curlDocumentation mbstringDocumentation
+    PHP version: 7.3.12
+
+
+
+
+phpMyAdmin
+
+    Version information: 4.9.2 
+
+
+Database server
+
+    Server: MariaDB (127.0.0.1 via TCP/IP)
+    Server type: MariaDB
+    Server connection: SSL is not being used Documentation
+    Server version: 10.4.10-MariaDB - mariadb.org binary distribution
+    Protocol version: 10
+    User: root@localhost
+    Server charset: cp1252 West European (latin1)
+
+
+AT JAVASCRIPT ATTACK WE USED PYCHARM FOR IDE AND PYTHON FOR PROGRAMMING LANGUAGE.
